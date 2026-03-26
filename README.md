@@ -22,4 +22,4 @@
 - 四层板层叠：信号-地-电源-信号
 
 ## 博客链接
-[CSDN 技术博客](https://blog.csdn.net/2501_92470428/article/details/159512470?fromshare=blogdetail&sharetype=blogdetail&sharerId=159512470&sharerefer=PC&sharesource=2501_92470428&sharefrom=from_link))
+[CSDN 技术博客]((https://blog.csdn.net/2501_92470428/article/details/159512470?fromshare=blogdetail&sharetype=blogdetail&sharerId=159512470&sharerefer=PC&sharesource=2501_92470428&sharefrom=from_link))
